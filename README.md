@@ -25,6 +25,7 @@ I'm an Artificial Intelligence undergraduate at **FPT University, Can Tho**, wit
 
 | Project | What it demonstrates |
 | --- | --- |
+| **[EdgeInferBench](https://github.com/thduy-h/EdgeInferBench)** | Reproducible CPU toolkit for PyTorch-to-ONNX conversion, numerical validation, and inference benchmarking across supported runtimes. |
 | **[Speech Data Toolkit](https://github.com/thduy-h/speech-data-toolkit)** | Python CLI for audio validation, preprocessing, feature extraction, dataset manifests, and reproducible splits. |
 | **[FERAttentionLite](https://github.com/thduy-h/FERAttentionLite)** | Lightweight facial-expression recognition with channel/spatial attention and a modular real-time inference pipeline. Reported FER-2013 test accuracy: **68.54%**; macro F1: **0.6690**; **1.21M** parameters. |
 | **[Realtime EN–VI Speech Translation](https://github.com/thduy-h/realtime-en-vi-speech-translation)** | Speech-to-speech prototype combining streaming ASR, a FastAPI WebSocket gateway, EnViT5/CTranslate2 translation, and browser TTS. |
@@ -74,4 +75,3 @@ See my [portfolio](https://me.thduyh.com) and [ORCID](https://orcid.org/0009-000
 ---
 
 **Interested in research or building an AI system together?** Reach me at **[work@thduyh.com](mailto:work@thduyh.com)**.
-
