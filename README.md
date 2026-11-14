@@ -31,6 +31,7 @@ I'm an Artificial Intelligence undergraduate at **FPT University, Can Tho**, wit
 | **[Realtime EN–VI Speech Translation](https://github.com/thduy-h/realtime-en-vi-speech-translation)** | Speech-to-speech prototype combining streaming ASR, a FastAPI WebSocket gateway, EnViT5/CTranslate2 translation, and browser TTS. |
 | **[Vietnamese ABSA + RAG](https://github.com/thduy-h/ABSA-RAG-Vietnamese-Restaurant-Hotel-Bot)** | Academic notebooks exploring aspect-based sentiment analysis and retrieval-augmented responses for restaurant and hotel domains. |
 | **[Modern Portfolio](https://github.com/thduy-h/modern-portfolio)** | Research and engineering portfolio built with Astro, React, TypeScript, GSAP, and Three.js. |
+| **[Unitree G1 Hybrid RL Logistics](https://github.com/thduy-h/Unitree-G1-Hybrid-RL-Logistics)** | Hybrid robot-learning workflow for box pickup, stair climbing, and critic-based handoff. |
 
 Metrics above are repository-reported results for the stated evaluation setup, not cross-hardware performance guarantees.
 
