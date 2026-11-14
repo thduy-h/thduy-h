@@ -21,6 +21,12 @@ I'm an Artificial Intelligence undergraduate at **FPT University, Can Tho**, wit
 - **Community:** President / former Academic Chair of the FPT Artificial Intelligence Club; project lead for **SAYNTAX**, a GenAct “STEAM for ALL” Top 10 initiative.
 - Open to **AI engineering opportunities, computer vision research, and technical collaboration**.
 
+### Current focus
+
+- **Embodied AI:** hybrid robot learning for box pickup and stair climbing on Unitree G1.
+- **Reliable deployment:** critic-based task completion, policy handoff, edge inference, and reproducible evaluation.
+- **Research communication:** turning experiments into clear technical reports, demos, and maintainable open-source projects.
+
 ### Selected public projects
 
 | Project | What it demonstrates |
